@@ -34,7 +34,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-03-02_1509",
+    "name": "ALPHA Productions",
     "versionFirst": "5.3.0",
     "siteFonts": [
       {
@@ -46,14 +46,22 @@
     "imageResize": true,
     "uniqCompNum": 2,
     "versionPublish": "5.3.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "mbrsiteDomain": "bjxchwbaea",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Alpha Productionsは、東京を拠点とし、在日華人を中心とする映像作品制作チームです。日本をベースとし、日中両国向けの高品質の映像作品の企画・制作をすることで日中両国の文化交流・相互理解に貢献することを目標とします。",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
