@@ -1536,7 +1536,7 @@ a {
 }
 .cid-s1YMdWQfw7 {
   padding-top: 105px;
-  padding-bottom: 105px;
+  padding-bottom: 45px;
   background-color: #191919;
 }
 .cid-s1YMdWQfw7 .mbr-overlay {
@@ -1630,4 +1630,10 @@ a {
 .cid-s1YMdWQfw7 .item-text,
 .cid-s1YMdWQfw7 .item-icon {
   color: #999999;
+  text-align: left;
+}
+.cid-s1YMdWQfw7 .copyright {
+  color: #FFF;
+  font-size: 20px;
+  text-align: center;
 }
