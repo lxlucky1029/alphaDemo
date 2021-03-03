@@ -703,9 +703,6 @@ a:hover {
   color: #bac2c4;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 blockquote {
   border-color: #e2090d;
 }
@@ -1465,12 +1462,15 @@ a {
   margin: auto;
 }
 .cid-s1YMnlZGXl .card {
-  height: fit-content;
+  width: 140px;
+  margin: 0px 1rem;
+  height: 140px;
+  background-color: #fff;
   cursor: pointer;
   padding: 1rem 0;
   margin-bottom: 1rem;
 }
-.cid-s1YMnlZGXl .card img {
+.cid-s1YMnlZGXl .card imga {
   filter: brightness(2);
 }
 @media (min-width: 992px) {
